@@ -1,0 +1,4 @@
+install/*
+download/*
+venv/
+stest.log
